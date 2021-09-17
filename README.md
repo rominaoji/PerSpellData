@@ -23,8 +23,10 @@ Example of real-word and non-word errors in Persian and English:
 
 <table>
     <thead>
-        <tr>
-            <th columnspan=4>Layer 1</th>
+        <tr rowspan=2>
+	    <th>Layer 2</th>
+	    <th>Layer 2</th>
+            <th colspan="2">Layer 1</th>
             <th>Layer 2</th>
             <th>Layer 3</th>
         </tr>
