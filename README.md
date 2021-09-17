@@ -21,11 +21,15 @@ Total           | 2,300,000   |7,500,000|
 Example of real-word and non-word errors in Persian and English:
 
 
-| First Header  | Second Header |
-|	type	|	type2	|
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|         f    |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||  
+[Prototype table]
 
 
 For soem error type we provide two files, one of them is confusion matrix and the other is perSpellData parallel corpus:
