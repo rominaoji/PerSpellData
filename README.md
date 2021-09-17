@@ -5,7 +5,7 @@ A comprehensive parallel dataset designed for the task of spell checking in Pers
 
 ## Description
 
-Our approach is based on a large corpus of Persian texts in addition to the confusion matrix. Confusion matrix is a set of words that may mistakenly be replaced with each other, like ‘there’ and ‘their’ in English. We gathered a confusion matrix containing X pairs of words from various sources, which are explained below. Given the confusion matrix, we make our parallel dataset by replacing correct words of corpus sentences with words which are confusing with them.
+Our approach is based on a large corpus of Persian texts in addition to the confusion matrix. Confusion matrix is a set of words that may mistakenly be replaced with each other, like ‘there’ and ‘their’ in English. We gathered a confusion matrix containing 2,072,396 pairs of words from various sources, which are explained below. Given the confusion matrix, we make our parallel dataset by replacing correct words of corpus sentences with words which are confusing with them.
 
 Following shows some statistics of PerSpellData:
 
