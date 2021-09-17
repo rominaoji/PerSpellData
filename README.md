@@ -33,8 +33,9 @@ Example of a deletion:
 
 For each language we provide two files, one each for insertions and deletions. The files contains the following tab-separated columns:
 
-Errors| Confusion Matrix |PerSpellData|
-:-----:| -----|
+
+Language | Insertions | Deletions |
+---------|------------|-----------|
 1      | Original sentence |10|
 2      | Insertion/deletion|19|
 3      | Edited sentence   |20|
