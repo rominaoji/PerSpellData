@@ -115,7 +115,9 @@ Example of real-word and non-word errors in Persian and English:
 </table>
 
 
-For soem error type we provide two files, one of them is confusion matrix and the other is perSpellData parallel corpus:
+For some error type we provide two files, one of them is confusion matrix and the other is perSpellData parallel corpus.
+all of PerSpellData is upladed and can be downloaded.
+Here are statistics and links of different type of errors:
 
 Type |Error_type | Confusion Matrix | PerSpellData |
 ---------|---------|------------|-----------|
