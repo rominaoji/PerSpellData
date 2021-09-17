@@ -30,21 +30,21 @@ For each language we provide two files, one each for insertions and deletions. T
 
 Type |Error_type | Confusion Matrix | PerSpellData |
 ---------|---------|------------|-----------|
-Real-word |Virastar's logs  			| [1034] 	| [18,690]	|
+Real-word |Virastar's logs  			| 1034	 	| [18,690]	|
 Real-word |Synthetic  				| [1425693] 	| [?]		|
-Real-word |Make informal plural again plural 	| [165]		| [?] 		|
-Real-word |Common mistakes 			| [87]		| [2,018] 	|
-Real-word |Same sound 				| [?] 		| [?]		|
-Real-word |Gozar words 				| [296] 	| [4,920] 	|
-Real-word |Tanvin 				| [79]  	| [1,072] 	|
-Real-word |Hamza 				| [1,193]  	| [?] 		|
-Non-word  |Virastar's logs  			| [136,164] 	| [1,185,512]	|
-Non-word  |FAspell  				| [5063] 	| [?]		|
+Real-word |Make informal plural again plural 	| 165		| [?] 		|
+Real-word |Common mistakes 			| 87		| [2,018] 	|
+Real-word |Same sound 				| ? 		| ?		|
+Real-word |Gozar words 				| 296	 	| [4,920] 	|
+Real-word |Tanvin 				| 79	  	| [1,072] 	|
+Real-word |Hamza 				| 1,193		| [?] 		|
+Non-word  |Virastar's logs  			| 136,164 	| [1,185,512]	|
+Non-word  |FAspell  				| [5063](https://www.kaggle.com/rtatman/faspell) 	| [?]		|
 Non-word  |Be 					| [515]		| [4,374] 	|
 Non-word  |Close words  			| [502,107] 	| [?] 		|
-Both-form |CPG  				| [707] 	| [707](https://github.com/rominaoji/PerSpellData/tree/main/dehkhoda)	|
-Real-word |Total  				| [?] 		| [?]		|
-Non-word  |Total  				| [?]		| [?] 		|
+Both-form |CPG  				| 707 		| [707](https://github.com/rominaoji/PerSpellData/tree/main/dehkhoda)	|
+Real-word |Total  				| ?		| ?		|
+Non-word  |Total  				| ?		| ? 		|
 
 
 ## Reference 
