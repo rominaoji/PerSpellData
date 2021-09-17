@@ -28,17 +28,25 @@ Example of a deletion:
 
 For each language we provide two files, one each for insertions and deletions. The files contains the following tab-separated columns:
 
-Language | Insertions | Deletions |
----------|------------|-----------|
-German  | [3.3](https://storage.googleapis.com/wiki-atomic-edits/german/insertions.tsv.gz)  | [1.9](https://storage.googleapis.com/wiki-atomic-edits/german/deletions.tsv.gz) |
-English | [13.7](https://storage.googleapis.com/wiki-atomic-edits/english/insertions.tsv.gz) | [9.3](https://storage.googleapis.com/wiki-atomic-edits/english/deletions.tsv.gz) |
-Spanish | [1.4](https://storage.googleapis.com/wiki-atomic-edits/spanish/insertions.tsv.gz)  | [0.9](https://storage.googleapis.com/wiki-atomic-edits/spanish/deletions.tsv.gz) |
-French  | [2.0](https://storage.googleapis.com/wiki-atomic-edits/french/insertions.tsv.gz)  | [2.0](https://storage.googleapis.com/wiki-atomic-edits/french/deletions.tsv.gz) |
-Italian | [1.0](https://storage.googleapis.com/wiki-atomic-edits/italian/insertions.tsv.gz)  | [0.6](https://storage.googleapis.com/wiki-atomic-edits/italian/deletions.tsv.gz) |
-Japanese| [2.2](https://storage.googleapis.com/wiki-atomic-edits/japanese/insertions.tsv.gz)  | [1.3](https://storage.googleapis.com/wiki-atomic-edits/japanese/deletions.tsv.gz) |
-Russian | [1.4](https://storage.googleapis.com/wiki-atomic-edits/russian/insertions.tsv.gz)  | [0.9](https://storage.googleapis.com/wiki-atomic-edits/russian/deletions.tsv.gz) |
-Chinese | [0.7](https://storage.googleapis.com/wiki-atomic-edits/chinese/insertions.tsv.gz)  | [0.4](https://storage.googleapis.com/wiki-atomic-edits/chinese/deletions.tsv.gz) |
-Total   | 25.7 | 17.2|
+|Error_type | Confusion Matrix | PerSpellData |
+---------|---------|------------|-----------|
+Real-word |Virastar's logs  			| [1034] 	| [18,690]	|
+Real-word |Synthetic |  			| [1425693] 	| [?]
+Real-word |Make informal plural again plural 	| [165]		| [?] 		|
+Real-word |Common mistakes 			| [87]		| [2,018] 	|
+Real-word |Same sound 				| [?] 		| [?]		|
+Real-word |Gozar words 				| [296] 	| [4,920] 	|
+Real-word |CPG 					| [?] 		| [?]		|
+Real-word |Tanvin 				| [79]  	| [1,072] 	|
+Real-word |Hamza 				| [1,193]  	| [?] 		|
+Non-word  |Virastar's logs  			| [136,164] 	| [1,185,512]	|
+Non-word  |CPG  				| [?] 		| [1,185,512]	|
+Non-word  |FAspell  				| [5063] 	| [?]		|
+Non-word  |Virastar logs 			| [?] 		| [1,185,512]	|
+Non-word  |Be 					| [515]		| [4,374] 	|
+Non-word  |Close words  			| [502,107] 	| [?] 		|
+Real-word |Total  				| [?] 		| [?]		|
+Non-word  |Total  				| [?]		| [?] 		|
 
 
 ## Reference 
