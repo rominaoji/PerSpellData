@@ -40,9 +40,6 @@ Example of real-word and non-word errors in Persian and English:
 	    <td>خوشبخنانه همه هنوز دچار نشده اند</td>
         </tr>
         <tr>
-            <td>L3 Name B</td>
-        </tr>
-        <tr>
             <td rowspan=2>deletion</td>
             <td>L3 Name C</td>
         </tr>
