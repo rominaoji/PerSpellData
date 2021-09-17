@@ -1,8 +1,7 @@
 # PerSpellData
 
-a comprehensive parallel dataset designed for the task of spell checking in Persian. Misspelled sentences together with the correct form are produced using a massive confusion matrix, which is gathered from many sources. This dataset contains informal sentences in addition to the formal sentences, and contains texts from diverse topics. Both non-word and real-word errors are collected in the dataset
+A comprehensive parallel dataset designed for the task of spell checking in Persian. Misspelled sentences together with the correct form are produced using a massive confusion matrix, which is gathered from many sources. This dataset contains informal sentences in addition to the formal sentences, and contains texts from diverse topics. Both non-word and real-word errors are collected in the dataset
 
-http://goo.gl/language/wiki-atomic-edits
 
 ## Description
 
@@ -45,17 +44,8 @@ Column | Data |
 If you use or discuss this dataset in your work, please cite our paper:
 
 ```
-@InProceedings{WikiAtomicEdits,
-  title = {{WikiAtomicEdits: A Multilingual Corpus of Wikipedia Edits for Modeling Language and Discourse}},
-  author = {Faruqui, Manaal and Pavlick, Ellie and Tenney, Ian and Das, Dipanjan},
-  booktitle = {Proc. of EMNLP},
-  year = {2018}
-}
+@InProceedings{}
 ```
-
-## License
-
-Query-wellformedness dataset is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/). Any third party content or data is provided “As Is” without any warranty, express or implied.
 
 ## Contact
 
