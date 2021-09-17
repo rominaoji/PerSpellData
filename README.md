@@ -42,7 +42,6 @@ Real-word |Hamza 				| [1,193]  	| [?] 		|
 Non-word  |Virastar's logs  			| [136,164] 	| [1,185,512]	|
 Non-word  |CPG  				| [?] 		| [1,185,512]	|
 Non-word  |FAspell  				| [5063] 	| [?]		|
-Non-word  |Virastar logs 			| [?] 		| [1,185,512]	|
 Non-word  |Be 					| [515]		| [4,374] 	|
 Non-word  |Close words  			| [502,107] 	| [?] 		|
 Real-word |Total  				| [?] 		| [?]		|
