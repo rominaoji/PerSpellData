@@ -29,6 +29,14 @@ Example of real-word and non-word errors in Persian and English:
             <th colspan=2>English Errors</th>
             <th colspan=2 >Persian Errors</th>
         </tr>
+	     <th colspan="1"></th>
+	     <th colspan="1"></th>
+	     <th colspan="1"></th>
+	     <th colspan="1"></th>
+	     <th colspan="1"></th>
+	     <th colspan="1"></th>
+	<tr>
+	</tr>
     </thead>
     <tbody>
         <tr>
@@ -101,8 +109,8 @@ Example of real-word and non-word errors in Persian and English:
 	    <td>word boundary </td>
             <td>You can do it </td>
 	    <td>Youcan do it</td>
-	    <td>به خانه میروم</td>
 	    <td>به خانه می روم</td>
+	    <td>به خانه میروم</td>
         </tr>
     </tbody>
 </table>
