@@ -24,8 +24,8 @@ Example of real-word and non-word errors in Persian and English:
 <table>
     <thead>
         <tr>
-	    <th colspan="2"></th>
-	    <th></th>
+	    <th colspan="1"></th>
+	    <th colspan="1"></th>
             <th colspan=2>English Errors</th>
             <th colspan=2 >Persian Errors</th>
         </tr>
