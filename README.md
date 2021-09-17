@@ -9,17 +9,12 @@ An atomic edit is defined as an edit *e* applied to a natural language expressio
 
 Following are the number of examples by language:
 
-Language | Insertions | Deletions |
----------|------------|-----------|
-German  | [3.3](https://storage.googleapis.com/wiki-atomic-edits/german/insertions.tsv.gz)  | [1.9](https://storage.googleapis.com/wiki-atomic-edits/german/deletions.tsv.gz) |
-English | [13.7](https://storage.googleapis.com/wiki-atomic-edits/english/insertions.tsv.gz) | [9.3](https://storage.googleapis.com/wiki-atomic-edits/english/deletions.tsv.gz) |
-Spanish | [1.4](https://storage.googleapis.com/wiki-atomic-edits/spanish/insertions.tsv.gz)  | [0.9](https://storage.googleapis.com/wiki-atomic-edits/spanish/deletions.tsv.gz) |
-French  | [2.0](https://storage.googleapis.com/wiki-atomic-edits/french/insertions.tsv.gz)  | [2.0](https://storage.googleapis.com/wiki-atomic-edits/french/deletions.tsv.gz) |
-Italian | [1.0](https://storage.googleapis.com/wiki-atomic-edits/italian/insertions.tsv.gz)  | [0.6](https://storage.googleapis.com/wiki-atomic-edits/italian/deletions.tsv.gz) |
-Japanese| [2.2](https://storage.googleapis.com/wiki-atomic-edits/japanese/insertions.tsv.gz)  | [1.3](https://storage.googleapis.com/wiki-atomic-edits/japanese/deletions.tsv.gz) |
-Russian | [1.4](https://storage.googleapis.com/wiki-atomic-edits/russian/insertions.tsv.gz)  | [0.9](https://storage.googleapis.com/wiki-atomic-edits/russian/deletions.tsv.gz) |
-Chinese | [0.7](https://storage.googleapis.com/wiki-atomic-edits/chinese/insertions.tsv.gz)  | [0.4](https://storage.googleapis.com/wiki-atomic-edits/chinese/deletions.tsv.gz) |
-Total   | 25.7 | 17.2|
+Errors   | Confusion Matrix | PerSpellData|
+---------|------------------|-------------|
+non-word errors | 500,000     |2,500,000|
+real-word errors| 1,800,000   |5,000,000|
+Total           | 2,300,000   |7,500,000|
+
 
 ## Examples
 
@@ -33,12 +28,18 @@ Example of a deletion:
 
 For each language we provide two files, one each for insertions and deletions. The files contains the following tab-separated columns:
 
+Language | Insertions | Deletions |
+---------|------------|-----------|
+German  | [3.3](https://storage.googleapis.com/wiki-atomic-edits/german/insertions.tsv.gz)  | [1.9](https://storage.googleapis.com/wiki-atomic-edits/german/deletions.tsv.gz) |
+English | [13.7](https://storage.googleapis.com/wiki-atomic-edits/english/insertions.tsv.gz) | [9.3](https://storage.googleapis.com/wiki-atomic-edits/english/deletions.tsv.gz) |
+Spanish | [1.4](https://storage.googleapis.com/wiki-atomic-edits/spanish/insertions.tsv.gz)  | [0.9](https://storage.googleapis.com/wiki-atomic-edits/spanish/deletions.tsv.gz) |
+French  | [2.0](https://storage.googleapis.com/wiki-atomic-edits/french/insertions.tsv.gz)  | [2.0](https://storage.googleapis.com/wiki-atomic-edits/french/deletions.tsv.gz) |
+Italian | [1.0](https://storage.googleapis.com/wiki-atomic-edits/italian/insertions.tsv.gz)  | [0.6](https://storage.googleapis.com/wiki-atomic-edits/italian/deletions.tsv.gz) |
+Japanese| [2.2](https://storage.googleapis.com/wiki-atomic-edits/japanese/insertions.tsv.gz)  | [1.3](https://storage.googleapis.com/wiki-atomic-edits/japanese/deletions.tsv.gz) |
+Russian | [1.4](https://storage.googleapis.com/wiki-atomic-edits/russian/insertions.tsv.gz)  | [0.9](https://storage.googleapis.com/wiki-atomic-edits/russian/deletions.tsv.gz) |
+Chinese | [0.7](https://storage.googleapis.com/wiki-atomic-edits/chinese/insertions.tsv.gz)  | [0.4](https://storage.googleapis.com/wiki-atomic-edits/chinese/deletions.tsv.gz) |
+Total   | 25.7 | 17.2|
 
-Errors   | Confusion Matrix | PerSpellData|
----------|------------------|-------------|
-non-word errors | 500,000     |2,500,000|
-real-word errors| 1,800,000   |5,000,000|
-Total           | 2,300,000   |7,500,000|
 
 ## Reference 
 
