@@ -26,8 +26,8 @@ Example of real-word and non-word errors in Persian and English:
         <tr>
 	    <th colspan="2"></th>
 	    <th></th>
-            <th rowspan=2>English Errors</th>
-            <th rowspan=2 >Persian Errors</th>
+            <th colspan=2>English Errors</th>
+            <th colspan=2 >Persian Errors</th>
         </tr>
     </thead>
     <tbody>
