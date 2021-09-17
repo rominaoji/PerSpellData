@@ -42,7 +42,7 @@ Non-word  |Virastar's logs  			| [136,164] 	| [1,185,512]	|
 Non-word  |FAspell  				| [5063] 	| [?]		|
 Non-word  |Be 					| [515]		| [4,374] 	|
 Non-word  |Close words  			| [502,107] 	| [?] 		|
-Both-form |CPG  				| [707] 	| [707]	(https://github.com/rominaoji/PerSpellData/tree/main/dehkhoda)	|
+Both-form |CPG  				| [707] 	| [707](https://github.com/rominaoji/PerSpellData/tree/main/dehkhoda)	|
 Real-word |Total  				| [?] 		| [?]		|
 Non-word  |Total  				| [?]		| [?] 		|
 
