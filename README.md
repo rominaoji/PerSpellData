@@ -36,10 +36,10 @@ Example of real-word and non-word errors in Persian and English:
         <tr>
             <td rowspan=4>non-word</td>
             <td>insertion</td>
-	    <td>insertion</td>
-	    <td>insertion</td>
-            <td>insertion</td>
-            <td>L3 Name A</td>
+	    <td>This story is embracing</td>
+	    <td>This storey is embracing </td>
+	    <td>خوشبختانه همه هنوز دچار نشده اند </td>
+	    <td>خوشبخنانه همه هنوز دچار نشده اند</td>
         </tr>
         <tr>
             <td>L3 Name B</td>
