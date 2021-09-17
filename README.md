@@ -5,9 +5,9 @@ A comprehensive parallel dataset designed for the task of spell checking in Pers
 
 ## Description
 
-An atomic edit is defined as an edit *e* applied to a natural language expression *S* as the insertion, deletion, or substitution of a sub-expression *P* such that both the original expression S and the resulting expression *e(S)* are well-formed semantic constituents (MacCartney, 2009). In this corpus, we release such atomic insertions and deletions made to sentences in wikipedia. __**Please click on the numbers below to download the data**__.
+Our approach is based on a large corpus of Persian texts in addition to the confusion matrix. Confusion matrix is a set of words that may mistakenly be replaced with each other, like ‘there’ and ‘their’ in English. We gathered a confusion matrix containing X pairs of words from various sources, which are explained below. Given the confusion matrix, we make our parallel dataset by replacing correct words of corpus sentences with words which are confusing with them.
 
-Following are the number of examples by language:
+Following shows some statistics of PerSpellData:
 
 Errors   | Confusion Matrix | PerSpellData|
 ---------|------------------|-------------|
@@ -18,15 +18,20 @@ Total           | 2,300,000   |7,500,000|
 
 ## Examples
 
-Example of an insertion:
+Example of real-word and non-word errors in Persian and English:
 
-"*She died there after a long illness.*" + "*in 1949*" = "*She died there in 1949 after a long illness.*"
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
 
-Example of a deletion:
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||  
+[Prototype table]
 
-"*She dreams about entering the Black Lodge and about a ring.*" - "*and about a ring.*" = "*She dreams about entering the Black Lodge.*"
 
-For each language we provide two files, one each for insertions and deletions. The files contains the following tab-separated columns:
+For soem error type we provide two files, one of them is confusion matrix and the other is perSpellData parallel corpus:
 
 Type |Error_type | Confusion Matrix | PerSpellData |
 ---------|---------|------------|-----------|
