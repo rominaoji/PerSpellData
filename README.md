@@ -40,8 +40,25 @@ Example of real-word and non-word errors in Persian and English:
 	    <td>خوشبخنانه همه هنوز دچار نشده اند</td>
         </tr>
         <tr>
-            <td rowspan=2>deletion</td>
-            <td>L3 Name C</td>
+            <td>deletion</td>
+            <td>She is an actress </td>
+	    <td>She is an acress</td>
+	    <td>مردم آن شهر خیلی خسته بودند</td>
+	    <td>مردم آن شهر خیی خسته بودند</td>
+        </tr>
+     <tr>
+            <td>substitution</td>
+            <td>Tehran is the capital of Iran </td>
+	    <td>Tehran is the capitol of Iran</td>
+	    <td>ساعت هفت بیدار میشوم </td>
+	    <td>صاعت هفت بیدار میشوم</td>
+        </tr>
+     <tr>
+            <td>transposition</td>
+            <td>He is afraid of bears </td>
+	    <td>He is afraid of bares</td>
+	    <td>از آنجا تاکسی گرفتیم</td>
+	    <td>از آنجا تاکسی گرتفیم</td>
         </tr>
         <tr>
             <td>L3 Name D</td>
