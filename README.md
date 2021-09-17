@@ -62,46 +62,47 @@ Example of real-word and non-word errors in Persian and English:
         </tr>
         <tr>
             <td rowspan=6>non-word</td>
-	    <td></td>
-            <td></td>
-	    <td></td>
-	    <td></td>
-	    <td></td>
-        </tr>
-	<tr>
-	    <td></td>
-            <td></td>
-	    <td></td>
-	    <td></td>
+	    <td>insertion</td>
+	    <td>Good jobs are found in big cities</td>
+            <td>Good jobs are found ink big cities</td>
+	    <td>در این مکان اسکان کنید</td>
+	    <td>در این مکان استکان کنید</td>
 	    <td></td>
         </tr>
 	<tr>
-	    <td></td>
-            <td></td>
-	    <td></td>
-	    <td></td>
-	    <td></td>
+	    <td>deletion</td>
+	    <td>They live on their own</td>
+            <td>They live on their on</td>
+	    <td>گرادیان این زاویه چند است؟</td>
+	    <td>گدایان این زاویه چند است؟</td>
         </tr>
 	<tr>
-	    <td></td>
-            <td></td>
-	    <td></td>
-	    <td></td>
-	    <td></td>
+	    <td>substitution</td>
+            <td>I cannot see you</td>
+	    <td>I cannot sea you</td>
+	    <td>این مبل گران است</td>
+	    <td>این مبل میان است</td>
         </tr>
 	<tr>
-	    <td></td>
-            <td></td>
-	    <td></td>
-	    <td></td>
-	    <td></td>
+	    <td>transposition</td>
+            <td>I live here</td>
+	    <td>I live heer</td>
+	    <td>این عدد بر مبنای دو است</td>
+	    <td>ین عدد بر مبانی دو است</td>
         </tr>
 	<tr>
-	    <td></td>
-            <td></td>
-	    <td></td>
-	    <td></td>
-	    <td></td>
+	    <td>same pronunciation</td>
+            <td>This is too much money</td>
+	    <td>This is two much money</td>
+	    <td>این میوه پرتقال است</td>
+	    <td>این میوه پرتغال است</td>
+        </tr>
+	<tr>
+	    <td>word boundary </td>
+            <td>You can do it </td>
+	    <td>Youcan do it</td>
+	    <td>به خانه میروم</td>
+	    <td>به خانه می روم</td>
         </tr>
     </tbody>
 </table>
