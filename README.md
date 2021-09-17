@@ -148,5 +148,5 @@ If you use or discuss this dataset in your work, please cite our paper:
 
 ## Contact
 
-If you have a technical question regarding the dataset or publication, please
+If you have any technical question regarding the dataset or publication, please
 create an issue in this repository.
