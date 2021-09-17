@@ -11,9 +11,9 @@ Following shows some statistics of PerSpellData:
 
 Errors   | Confusion Matrix | PerSpellData|
 ---------|------------------|-------------|
-non-word errors | 500,000     |2,500,000|
-real-word errors| 1,800,000   |5,000,000|
-Total           | 2,300,000   |7,500,000|
+non-word errors | 643,849     |2,500,000|
+real-word errors| 1,428,547   |5,000,000|
+Total           | 2,072,396   |7,500,000|
 
 
 ## Examples
@@ -134,8 +134,6 @@ Non-word  |FAspell  				| [5063](https://www.kaggle.com/rtatman/faspell) 	| [?]	
 Non-word  |Be 					| 515		| [4,374] 	|
 Non-word  |Close words  			| 502,107 	| [?] 		|
 Both-form |CPG  				| - 		| [707](https://github.com/rominaoji/PerSpellData/tree/main/dehkhoda)	|
-Real-word |Total  				| 1,428,547	| ?		|
-Non-word  |Total  				| 643,849	| ? 		|
 
 
 ## Reference 
