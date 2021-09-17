@@ -68,7 +68,7 @@ Example of real-word and non-word errors in Persian and English:
 	    <td>از آنجا تاکسی گرتفیم</td>
         </tr>
         <tr>
-            <td rowspan=6>non-word</td>
+            <td rowspan=6>real-word</td>
 	    <td>insertion</td>
 	    <td>Good jobs are found in big cities</td>
             <td>Good jobs are found ink big cities</td>
