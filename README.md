@@ -22,6 +22,7 @@ Example of real-word and non-word errors in Persian and English:
 
 
 | First Header  | Second Header |
+|	type	|	type2	|
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
