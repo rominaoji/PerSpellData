@@ -28,7 +28,7 @@ Example of a deletion:
 
 For each language we provide two files, one each for insertions and deletions. The files contains the following tab-separated columns:
 
-|Error_type | Confusion Matrix | PerSpellData |
+Type |Error_type | Confusion Matrix | PerSpellData |
 ---------|---------|------------|-----------|
 Real-word |Virastar's logs  			| [1034] 	| [18,690]	|
 Real-word |Synthetic |  			| [1425693] 	| [?]
