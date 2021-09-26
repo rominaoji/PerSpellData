@@ -123,15 +123,15 @@ Type |Error_type | Confusion Matrix | PerSpellData |
 ---------|---------|------------|-----------|
 Real-word |Virastar's logs  			| 1034	 	| [9334]	|
 Real-word |Synthetic  				| [1,425,693](https://github.com/rominaoji/PerSpellData/blob/main/confusion_matrix/real-word/final_confusion_real.csv) 	| [3,690,817]		|
-Real-word |Make informal plural again plural 	| 165		| [?] 		|
-Real-word |Common mistakes 			| 87		| [2,018] 	|
+Real-word |Make informal plural again plural 	| 165		| [6050] 		|
+Real-word |Common mistakes 			| 87		| [1,009] 	|
 Real-word |Same sound 				| ? 		| ?		|
-Real-word |Gozar words 				| 296	 	| [4,920] 	|
+Real-word |Gozar words 				| 296	 	| [2460] 	|
 Real-word |Tanvin 				| 79	  	| [1,072] 	|
 Real-word |Hamza 				| 1,193		| [?] 		|
 Non-word  |Virastar's logs  			| 136,164 	| [1,185,512]	|
 Non-word  |FAspell  				| [5063](https://www.kaggle.com/rtatman/faspell) 	| [?]		|
-Non-word  |Be 					| 515		| [4,374] 	|
+Non-word  |Be 					| 515		| [2187] 	|
 Non-word  |Close words  			| 502,107 	| [?] 		|
 Both-form |CPG  				| - 		| [707](https://github.com/rominaoji/PerSpellData/tree/main/dehkhoda)	|
 
