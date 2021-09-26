@@ -121,9 +121,9 @@ Here are statistics and links of different type of errors:
 
 Type |Error_type | Confusion Matrix | PerSpellData |
 ---------|---------|------------|-----------|
-Real-word |Virastar's logs  			| 1034	 	| [9334]	|
+Real-word |Virastar's logs  			| 1034	 	| [9,334]	|
 Real-word |Synthetic  				| [1,425,693](https://github.com/rominaoji/PerSpellData/blob/main/confusion_matrix/real-word/final_confusion_real.csv) 	| [3,690,817]		|
-Real-word |Make informal plural again plural 	| 165		| [6050] 		|
+Real-word |Make informal plural again plural 	| 165		| [6,050] 		|
 Real-word |Common mistakes 			| 87		| [1,009] 	|
 Real-word |Same sound 				| ? 		| ?		|
 Real-word |Gozar words 				| 296	 	| [2460] 	|
