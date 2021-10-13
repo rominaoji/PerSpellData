@@ -11,9 +11,9 @@ Following shows some statistics of PerSpellData:
 
 Errors   | Confusion Matrix | PerSpellData|
 ---------|------------------|-------------|
-non-word errors | 643,849     |2,500,000|
-real-word errors| 1,428,547   |5,000,000|
-Total           | 2,072,396   |7,500,000|
+non-word errors | 643,849     |3.8M|
+real-word errors| 1,428,547   |2.5M|
+Total           | 2,072,396   |6.4M|
 
 
 ## Examples
