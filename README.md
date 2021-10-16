@@ -122,17 +122,17 @@ Here are statistics and links of different type of errors:
 Type |Error_type | Confusion Matrix | PerSpellData |
 ---------|---------|------------|-----------|
 Real-word |Virastar's logs  			| 1034	 	| [9,334](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/virastar)	|
-Real-word |Synthetic  				| [1,425,693](https://drive.google.com/drive/folders/1VK6tUEJoqPTE7SCs6FJt4p0P6BosDj2x?usp=sharing) 	| [3,690,817](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/synthetic)		|
+Real-word |Synthetic  				| [1,425,693](https://github.com/rominaoji/PerSpellData/blob/main/confusion_matrix/real-word/final_confusion_real.csv) 	| [3,690,817](https://drive.google.com/drive/folders/1VK6tUEJoqPTE7SCs6FJt4p0P6BosDj2x?usp=sharing)		|
 Real-word |Make informal plural again plural 	| 165		| [6,050](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/plural) 		|
 Real-word |Common mistakes 			| 87		| [1,009](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/common) 	|
 Real-word |Same sound 				| ? 		| ?		|
 Real-word |Gozar words 				| 296	 	| [2,460](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/gozar) 	|
 Real-word |Tanvin 				| 79	  	| [1,072](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/tanvin) 	|
 Real-word |Hamza 				| 1,193		| [?] 		|
-Non-word  |Virastar's logs  			| 136,164 	| [605,769](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/non-word/Virastar)	|
-Non-word  |FAspell  				| [5063](https://www.kaggle.com/rtatman/faspell) 	| [10394](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/non-word/Faspell)		|
+Non-word  |Virastar's logs  			| 136,164 	| [605,769](https://drive.google.com/drive/folders/1CP6DyLwIBHer7TsVE9ca0rjHjWc0QSFF?usp=sharing)	|
+Non-word  |FAspell  				| [5063](https://www.kaggle.com/rtatman/faspell) 	| [10394](https://drive.google.com/drive/folders/1k9U4N9W-StBaKWFetckwj3fROAyzRNg9?usp=sharing)		|
 Non-word  |Be 					| 515		| [2187](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/be) 	|
-Non-word  |Close words  			| 502,107 	| [1,886,935](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/non-word/close-words) 		|
+Non-word  |Close words  			| 502,107 	| [1,886,935](https://drive.google.com/drive/folders/1vchA4BOlyBz0-POZqvgSRs1dxPb-bMNx?usp=sharing) 		|
 Both-form |CPG  				| - 		| [707](https://github.com/rominaoji/PerSpellData/tree/main/dehkhoda)	|
 
 
