@@ -122,7 +122,7 @@ Here are statistics and links of different type of errors:
 Type |Error_type | Confusion Matrix | PerSpellData |
 ---------|---------|------------|-----------|
 Real-word |Virastar's logs  			| 1034	 	| [9,334](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/virastar)	|
-Real-word |Synthetic  				| [1,425,693](https://github.com/rominaoji/PerSpellData/blob/main/confusion_matrix/real-word/final_confusion_real.csv) 	| [3,690,817](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/synthetic)		|
+Real-word |Synthetic  				| [1,425,693](https://drive.google.com/drive/folders/1VK6tUEJoqPTE7SCs6FJt4p0P6BosDj2x?usp=sharing) 	| [3,690,817](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/synthetic)		|
 Real-word |Make informal plural again plural 	| 165		| [6,050](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/plural) 		|
 Real-word |Common mistakes 			| 87		| [1,009](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/common) 	|
 Real-word |Same sound 				| ? 		| ?		|
