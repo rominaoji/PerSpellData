@@ -128,7 +128,7 @@ Real-word |Common mistakes 			| 87		| [1,009](https://github.com/rominaoji/PerSp
 Real-word |Same sound 				| ? 		| ?		|
 Real-word |Gozar words 				| 296	 	| [2,460](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/gozar) 	|
 Real-word |Tanvin 				| 79	  	| [1,072](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/tanvin) 	|
-Real-word |Hamza 				| 1,193		| [?] 		|
+Real-word |Hamza 				| 1,229		| [?] 		|
 Non-word  |Virastar's logs  			| 136,164 	| [605,769](https://drive.google.com/drive/folders/1CP6DyLwIBHer7TsVE9ca0rjHjWc0QSFF?usp=sharing)	|
 Non-word  |FAspell  				| [5063](https://www.kaggle.com/rtatman/faspell) 	| [10394](https://drive.google.com/drive/folders/1k9U4N9W-StBaKWFetckwj3fROAyzRNg9?usp=sharing)		|
 Non-word  |Be 					| 515		| [2187](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/be) 	|
