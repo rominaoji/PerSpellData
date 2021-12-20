@@ -141,7 +141,17 @@ Both-form |CPG  				| - 		| [707](https://github.com/rominaoji/PerSpellData/tree
 If you use or discuss this dataset in your work, please cite our paper:
 
 ```
-@InProceedings{}
+@inproceedings{persian-2021-romina-oji,
+    title = "Romina Oji, Nasrin Taghizadeh and Heshaam Faili",
+    author = "Persian, PerSpellData: An Exhaustive Parallel Spell Dataset For",
+    booktitle = "Proceedings of The Second International Workshop on NLP Solutions for Under Resourced Languages (NSURL 2021) co-located with ICNLSP 2021",
+    month = "12--13 " # nov,
+    year = "2021",
+    address = "Trento, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.nsurl-1.2",
+    pages = "8--14",
+}
 ```
 
 ## Contact
