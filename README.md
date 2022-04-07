@@ -20,7 +20,6 @@ Total           | 2,072,396   |6.4M|
 
 Example of real-word and non-word errors in Persian and English:
 
-
 <table>
     <thead>
         <tr>
@@ -119,22 +118,82 @@ For some error type we provide two files, one of them is confusion matrix and th
 all of PerSpellData is upladed and can be downloaded.
 Here are statistics and links of different type of errors:
 
-Type |Error_type | Confusion Matrix | PerSpellData |
----------|---------|------------|-----------|
-Real-word |Virastar's logs  			| 1034	 	| [9,334](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/virastar)	|
-Real-word |Synthetic  				| [1,425,693](https://github.com/rominaoji/PerSpellData/blob/main/confusion_matrix/real-word/final_confusion_real.csv) 	| [3,690,817](https://drive.google.com/drive/folders/1VK6tUEJoqPTE7SCs6FJt4p0P6BosDj2x?usp=sharing)		|
-Real-word |Make informal plural again plural 	| 165		| [6,050](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/plural) 		|
-Real-word |Common mistakes 			| 87		| [1,009](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/common) 	|
-Real-word |Same sound 				| ? 		| ?		|
-Real-word |Gozar words 				| 296	 	| [2,460](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/gozar) 	|
-Real-word |Tanvin 				| 79	  	| [1,072](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/tanvin) 	|
-Real-word |Hamza 				| 1,229		| [?] 		|
-Non-word  |Virastar's logs  			| 136,164 	| [605,769](https://drive.google.com/drive/folders/1CP6DyLwIBHer7TsVE9ca0rjHjWc0QSFF?usp=sharing)	|
-Non-word  |FAspell  				| [5063](https://www.kaggle.com/rtatman/faspell) 	| [10394](https://drive.google.com/drive/folders/1k9U4N9W-StBaKWFetckwj3fROAyzRNg9?usp=sharing)		|
-Non-word  |Be 					| 515		| [2187](https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/be) 	|
-Non-word  |Close words  			| 502,107 	| [1,886,935](https://drive.google.com/drive/folders/1vchA4BOlyBz0-POZqvgSRs1dxPb-bMNx?usp=sharing) 		|
-Both-form |CPG  				| - 		| [707](https://github.com/rominaoji/PerSpellData/tree/main/dehkhoda)	|
 
+<table>
+	<thead>
+		<th>Type</th>
+		<th>Error-Type</th>
+		<th>Confused-words</th>
+		<th>PerSpellData</th>
+	</thead>
+	 <tbody>
+        <tr>
+	    	<td>Real-word</td>
+	    	<td>Virastman's logs</td>
+	    	<td>1034</td>
+	    	<td><a href="https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/virastman">7,753</a></td>
+		</tr>
+        <tr>
+	    	<td>Real-word</td>
+	    	<td>Synthetic</td>
+	    	<td><a href="https://github.com/rominaoji/PerSpellData/blob/main/confusion_matrix/real-word/final_confusion_real.csv">1,425,693</a></td>
+	    	<td><a href="https://drive.google.com/drive/u/6/folders/1VK6tUEJoqPTE7SCs6FJt4p0P6BosDj2x">2,959,054</a></td>
+		</tr>
+        <tr>
+	   		<td>Real-word</td>
+	    	<td>Make informal plural again plural</td>
+	    	<td>165</td>
+	    	<td><a href="https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/plural">2,968</a></td>
+		</tr>
+        <tr>
+	    	<td>Real-word</td>
+	    	<td>Common mistakes</td>
+	    	<td>87</td>
+	    	<td><a href="https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/common">847</a></td>
+		</tr>
+        <tr>
+	    	<td>Real-word</td>
+	    	<td>Gozar</td>
+	    	<td>296</td>
+	    	<td><a href="https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/gozar">2,088</a></td>
+		</tr>
+        <tr>
+	    	<td>Real-word</td>
+	    	<td>Tanvin</td>
+	    	<td>79</td>
+	    	<td><a href="https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/tanvin">448</a></td>
+		</tr>
+		<tr>
+	    	<td>Non-word</td>
+	    	<td>Be</td>
+	    	<td>515</td>
+	    	<td><a href="https://github.com/rominaoji/PerSpellData/tree/main/DataSet/real-word/be">1520</a></td>
+		</tr>
+	    <td>Non-word</td>
+	    	<td>FaSepell</td>
+	    	<td>5,063</td>
+	    	<td><a href="https://drive.google.com/drive/u/6/folders/1k9U4N9W-StBaKWFetckwj3fROAyzRNg9">8,953</a></td>
+		</tr>
+        <tr>
+	    	<td>Non-word</td>
+	    	<td>Virastman's logs</td>
+	    	<td>136,164</td>
+	    	<td><a href="https://drive.google.com/drive/u/6/folders/1CP6DyLwIBHer7TsVE9ca0rjHjWc0QSFF">467,946</a></td>
+		</tr>
+		<tr>
+	    	<td>Non-word</td>
+	    	<td>Close words</td>
+	    	<td>502,107</td>
+	    	<td><a href="https://drive.google.com/drive/u/6/folders/1vchA4BOlyBz0-POZqvgSRs1dxPb-bMNx">1,440,854</a></td>
+		</tr>
+		<tr>
+	    	<td>Non-word</td>
+	    	<td>CPG</td>
+	    	<td>-</td>
+	    	<td><a href="https://github.com/rominaoji/PerSpellData/tree/main/dehkhoda">707</a></td>
+		</tr>
+
+</table>
 
 ## Reference 
 
